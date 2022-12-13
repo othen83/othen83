@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @othen83
 - 👀 I’m interested in mostly everythin
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning front end basics
 - 📫 Contact: othen83#6782 (Discord)
 
 <!---

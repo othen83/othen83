@@ -2,7 +2,7 @@
 -👀 I’m interested in mostly everythin
 -🌱 I’m currently learning front end basics
 -📫 Contact: othen83#6782 (Discord)
- 
+
  "I am not indifferent to anything,  but the most important for myself is me"  ~8️⃣3️⃣
 
 <!---

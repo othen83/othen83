@@ -1,4 +1,4 @@
-I’m currently learning front end basics<br>
+I’m currently learning js<br>
 
 Contact: othen83#6782 (Discord) <br>
 <hr>

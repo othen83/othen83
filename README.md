@@ -5,7 +5,8 @@ Contact: othen83#6782 (Discord) <br>
 "I am not indifferent to anything, but the most important for myself is me"  ~8️⃣3️⃣
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othen83)](https://github.com/othen83/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othen83a&layout=compact)](https://github.com/othen83/github-readme-stats)
+
 
 
 <!---

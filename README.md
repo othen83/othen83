@@ -2,7 +2,7 @@ I’m currently learnin' python<br>
 
 Contact: othen83#6782 (Discord) <br>
 <hr>
-"I am not indifferent to anything, but the most important for myself is me"  ~8️⃣3️⃣
+"I ain't indifferent to anything, but the most important for myself is me"  ~8️⃣3️⃣
 <hr>
 
 <!---
